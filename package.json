@@ -1,0 +1,11 @@
+{
+  "name": "graphql-testing-library",
+  "version": "0.0.1",
+  "description": "Simple GraphQL testing utility",
+  "main": "dist/index.js",
+  "author": "Max Rozen <rozenmd@gmail.com> (https://maxrozen.com/)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
